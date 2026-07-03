@@ -9,8 +9,8 @@
 
 ## Profile Info | 个人信息
 <p align="left">
-  <!-- 项目开发图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=project" width="24" height="24" />
+  <!-- 项目开发：用代码仓库图标替代 -->
+  <img align="center" src="https://skillicons.dev/icons?i=git" width="24" height="24" />
   <strong>I'm currently working on</strong>
   <br>
   Spring Cloud microservice backend system + Vue3 & MySQL full-stack management platform
@@ -19,8 +19,8 @@
 </p>
 
 <p align="left">
-  <!-- 学习进度图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=learn" width="24" height="24" />
+  <!-- 学习进度：用Typescript图标替代 -->
+  <img align="center" src="https://skillicons.dev/icons?i=ts" width="24" height="24" />
   <strong>I'm currently learning</strong>
   <br>
   TypeScript, GraphQL, Distributed System Design, Linux O&M, ROS2
@@ -29,8 +29,8 @@
 </p>
 
 <p align="left">
-  <!-- 开源合作图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=opensource" width="24" height="24" />
+  <!-- 开源合作：用github图标替代 -->
+  <img align="center" src="https://skillicons.dev/icons?i=github" width="24" height="24" />
   <strong>I'm looking to collaborate on</strong>
   <br>
   Open-source Java/SpringBoot full-stack projects, lightweight backend tools, engineering projects
@@ -39,8 +39,8 @@
 </p>
 
 <p align="left">
-  <!-- 交流互助图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=discuss" width="24" height="24" />
+  <!-- 交流互助：用postman沟通图标替代 -->
+  <img align="center" src="https://skillicons.dev/icons?i=postman" width="24" height="24" />
   <strong>I'm looking for help with</strong>
   <br>
   High-concurrency architecture, distributed transaction optimization, cloud native deployment
@@ -49,8 +49,8 @@
 </p>
 
 <p align="left">
-  <!-- 问答咨询图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=chat" width="24" height="24" />
+  <!-- 问答咨询：用discord聊天图标替代 -->
+  <img align="center" src="https://skillicons.dev/icons?i=discord" width="24" height="24" />
   <strong>Ask me about</strong>
   <br>
   Spring Cloud, MySQL tuning, Python data analysis, CS Postgraduate Exam 408, Separate front-end & back-end development
@@ -59,14 +59,14 @@
 </p>
 
 <p align="left">
-  <!-- 邮件图标 -->
+  <!-- 邮件联系方式：qq邮箱兼容图标 -->
   <img align="center" src="https://skillicons.dev/icons?i=gmail" width="24" height="24" />
   <strong>How to reach me ｜ 联系方式：</strong>
   2507466613@qq.com
 </p>
 
 <p align="left">
-  <!-- 趣味标签图标 -->
+  <!-- 趣味标签：咖啡图标 -->
   <img align="center" src="https://skillicons.dev/icons?i=coffee" width="24" height="24" />
   <strong>Fun fact</strong>
   <br>
@@ -76,12 +76,11 @@
 </p>
 
 <p align="left">
-  <!-- 仓库图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=github" width="24" height="24" />
+  <!-- 项目仓库图标 -->
+  <img align="center" src="https://skillicons.dev/icons?i=repo" width="24" height="24" />
   <strong>All of my projects are available at：</strong>
   <a href="https://github.com/EpiphanyLhx?tab=repositories">https://github.com/EpiphanyLhx?tab=repositories</a>
 </p>
-
 <hr>
 
 <h3 align="left">Connect with me | 社交渠道</h3>
