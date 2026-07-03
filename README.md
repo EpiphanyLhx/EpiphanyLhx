@@ -77,7 +77,7 @@
 
 <p align="left">
   <!-- 项目仓库图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=repo" width="24" height="24" />
+  <img align="center" src="https://skillicons.dev/icons?i=github" width="24" height="24" />
   <strong>All of my projects are available at：</strong>
   <a href="https://github.com/EpiphanyLhx?tab=repositories">https://github.com/EpiphanyLhx?tab=repositories</a>
 </p>
