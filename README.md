@@ -58,21 +58,15 @@
   欢迎咨询：SpringCloud 微服务、MySQL 性能调优、Python 数据分析、计算机考研 408、前后端分离开发
 </p>
 
-<p align="left">
-  <!-- 联系方式 → Gmail 邮件矢量图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" width="24" height="24" />
-  <strong>How to reach me ｜ 联系方式：</strong>
-  2507466613@qq.com
-</p>
 
 <p align="left">
   <!-- Fun fact 咖啡专属矢量图（skillicons无coffee，使用simple-icons稳定CDN） -->
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/coffeescript.svg" width="24" height="24" />
   <strong>Fun fact</strong>
   <br>
-  EN: I write code during the day and brush 408 exam questions at night, coffee is my best companion.
+  I write code during the day and brush 408 exam questions at night, coffee is my best companion.
   <br>
-  CN: 白天敲代码，晚上刷408，咖啡是我的续航神器。
+  白天敲代码，晚上刷408，咖啡是我的续航神器。
 </p>
 
 <p align="left">
@@ -80,6 +74,12 @@
   <img align="center" src="https://skillicons.dev/icons?i=repo" width="24" height="24" />
   <strong>All of my projects are available at：</strong>
   <a href="https://github.com/EpiphanyLhx?tab=repositories">https://github.com/EpiphanyLhx?tab=repositories</a>
+</p>
+
+<p align="left">
+  <!-- 联系方式 → Gmail 邮件矢量图标 -->
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" width="24" height="24" />
+  <strong>How to reach me ｜ 联系方式：</strong> 2507466613@qq.com
 </p>
 
 <hr>
