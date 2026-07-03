@@ -81,14 +81,6 @@
   <strong>All of my projects are available at：</strong>
   <a href="https://github.com/EpiphanyLhx?tab=repositories">https://github.com/EpiphanyLhx?tab=repositories</a>
 </p>
-<hr>
-
-<h3 align="left">Connect with me | 社交渠道</h3>
-<p align="left">
-<a href="https://github.com/EpiphanyLhx" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="EpiphanyLhx" height="30" width="40" />
-</a>
-</p>
 
 <hr>
 
