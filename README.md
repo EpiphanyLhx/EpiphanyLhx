@@ -67,7 +67,7 @@
 
 <p align="left">
   <!-- 趣味标签：咖啡图标 -->
-  <img align="center" src="https://skillicons.dev/icons?i=coffee" width="24" height="24" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/coffeescript.svg" width="24" height="24" />
   <strong>Fun fact</strong>
   <br>
   EN: I write code during the day and brush 408 exam questions at night, coffee is my best companion.
