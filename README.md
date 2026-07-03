@@ -4,7 +4,7 @@
 ### Full-Stack Software Engineering Student | 计算机软件工程在读 
 
 <p align="left"> 
-  <img src="https://ghproxy.com/https://komarev.com/ghpvc/?username=EpiphanyLhx&label=Profile views&color=0e75b6&style=flat" alt="EpiphanyLhx" />
+  <img src="https://komarev.com/ghpvc/?username=EpiphanyLhx&label=Profile%20views&color=0e75b6&style=flat" alt="EpiphanyLhx" />
 </p>
 
 ## Profile Info | 个人信息
