@@ -9,7 +9,7 @@
 
 ## Profile Info | 个人信息
 <p align="left">
-  <!-- 当前项目 → Spring 后端框架图标，匹配微服务开发 -->
+  <!-- 当前项目  -->
   <img align="center" src="https://skillicons.dev/icons?i=spring" width="24" height="24" />
   <strong>I'm currently working on</strong>
   <br>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <!-- 正在学习 → TypeScript 图标，匹配学习内容 -->
+  <!-- 正在学习  -->
   <img align="center" src="https://skillicons.dev/icons?i=ts" width="24" height="24" />
   <strong>I'm currently learning</strong>
   <br>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  <!-- 开源合作 → Github 图标，匹配开源协作 -->
+  <!-- 开源合作  -->
   <img align="center" src="https://skillicons.dev/icons?i=github" width="24" height="24" />
   <strong>I'm looking to collaborate on</strong>
   <br>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="left">
-  <!-- 技术交流提升 → Docker 云原生图标，匹配高并发/云原生方向 -->
+  <!-- 技术交流提升 -->
   <img align="center" src="https://skillicons.dev/icons?i=docker" width="24" height="24" />
   <strong>I'm looking for help with</strong>
   <br>
@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-  <!-- 欢迎咨询 → Postman 接口调试图标，匹配后端开发问答 -->
+  <!-- 欢迎咨询 -->
   <img align="center" src="https://skillicons.dev/icons?i=postman" width="24" height="24" />
   <strong>Ask me about</strong>
   <br>
@@ -60,7 +60,7 @@
 
 
 <p align="left">
-  <!-- Fun fact 咖啡专属矢量图（skillicons无coffee，使用simple-icons稳定CDN） -->
+  <!-- Fun fact -->
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/coffeescript.svg" width="24" height="24" />
   <strong>Fun fact</strong>
   <br>
@@ -70,21 +70,21 @@
 </p>
 
 <p align="left">
-  <!-- 项目仓库 → repo 仓库图标 -->
+  <!-- 项目仓库 -->
   <img align="center" src="https://skillicons.dev/icons?i=github" width="24" height="24" />
   <strong>All of my projects are available at：</strong>
   <a href="https://github.com/EpiphanyLhx?tab=repositories">https://github.com/EpiphanyLhx?tab=repositories</a>
 </p>
 
 <p align="left">
-  <!-- 联系方式 → Gmail 邮件矢量图标 -->
+  <!-- 联系方式  -->
   <img align="center" src="https://skillicons.dev/icons?i=gmail" width="24" height="24" />
   <strong>How to reach me ｜ 联系方式：</strong> 2507466613@qq.com
 </p>
 
 <hr>
 
-<h3 align="left">Languages and Tools | 技术栈分类</h3>
+<h3 align="left">Languages and Tools | 技术栈</h3>
 
 ### 1. Backend Development | 后端开发
 <p align="left">
@@ -105,7 +105,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-### 3. Database & Middleware | 数据库 & 中间件
+### 3. Database & Middleware | 数据库
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
